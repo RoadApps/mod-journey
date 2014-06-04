@@ -1,0 +1,20 @@
+{
+  "name": "roadapps.mod-journey",
+  "version": "1.0.0",
+  "description": "RoadApps Journey Module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RoadApps/mod-journey.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Dg Nechtan <dgnechtan@gmail.com> (http://hax0r.in)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RoadApps/mod-journey/issues"
+  },
+  "homepage": "https://github.com/RoadApps/mod-journey"
+}
